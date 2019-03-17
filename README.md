@@ -2,7 +2,7 @@
 
 make a commit using github API
 
-> Gardener works everyday at [nnytt/lawn](https://github.com/nnytt/lawn)
+> Gardener works everyday at [nnytt/lawn](https://github.com/nnytt/lawn) with `AWS lambda` & `AWS Cloudwatch`
 ![image](https://user-images.githubusercontent.com/16997573/52635303-e1727b00-2f0c-11e9-9654-6726ca367486.png)
 
 ## Before the test
